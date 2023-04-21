@@ -22,7 +22,7 @@
     "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
-    "near-api-js": "^0.43.1",
+    "near-api-js": "^2.1.1",
     "regenerator-runtime": "^0.13.9"
   },
   "jest": {
